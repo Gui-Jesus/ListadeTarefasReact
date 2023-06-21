@@ -63,7 +63,7 @@ const newTodos = [
 
   return (
    <div className="app">
-    <h1>Lista de Tarefas</h1>
+    <h1>Lista testes github</h1>
     <Search search={search} setSearch={setSearch}/>
     <Filter filter={filter} setFilter={setFilter} setSort={setSort}/>
     <div className="todo-list">
